@@ -104,13 +104,13 @@
 
 **Требования к результатам** 
 
-  *Скриншот свободного места на диске С:*
-  ![Скриншот свободного места на диске С:](https://github.com/KupIOxaCaH/Zabbix/blob/main/img/Used%20space.png)
+Приложите в файл README.md скриншот раздела Latest Data, где видно свободное место на диске C:
+
 
 
 ---
 
 #### Решение 3 
 
-*Скриншот раздела Latest Data*
-![Скриншот раздела Latest Data]()
+ *Скриншот раздела Latest Data*
+  ![Скриншот свободного места на диске С:](https://github.com/KupIOxaCaH/Zabbix/blob/main/img/Used%20space.png)
